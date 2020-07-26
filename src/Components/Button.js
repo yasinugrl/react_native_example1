@@ -20,4 +20,4 @@ const Button = (props) => (
           </TouchableOpacity>
 );
 
-export default Button;
+export {Button};

@@ -4,9 +4,9 @@ import {
   TouchableOpacity,
   ScrollView
 } from 'react-native';
-import Input from './src/Components/Input';
-import Button from './src/Components/Button';
-import CheckBox from './src/Components/CheckBox';
+
+
+import {Input, Button, CheckBox  } from './src/Components'
 
 const { width } = Dimensions.get('window')
 
