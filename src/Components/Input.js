@@ -13,12 +13,13 @@ const Input = (props) => (
         style={[{
             width: width * 0.9,
             height: height * 0.06,
-            backgroundColor: '#ededed',
+            backgroundColor: '#fcfcfc',
             borderWidth: 0.5,
             borderColor: 'gray',
             borderRadius: 7,
             paddingLeft: 10,
             marginBottom: height * 0.02,
+            fontSize: 18
         }, props.style]}
     />
 );
